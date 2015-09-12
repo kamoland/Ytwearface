@@ -15,7 +15,7 @@ https://play.google.com/store/apps/details?id=com.kamoland.ytlog_g
 作成したアプリは，Google Playで無料または有料アプリとして公開していただいても構いません．
 私への連絡は不要です．
 
-Apache License 2.0.
+MIT License
 
 The Android Wear watchface application for "Mountain trip logger GOLD".
 
