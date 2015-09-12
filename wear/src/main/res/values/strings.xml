@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mountain trip logger Watch Face</string>
+    <string name="ma_cat_version">version: </string>
+    <string name="ma_desc">Please set "Mountain trip logger Watch Face" as watch face.\nRequire "Mountain trip logger GOLD".</string>
+    <string name="ma_t_require">Require Mountain trip logger GOLD 4.35+</string>
+</resources>

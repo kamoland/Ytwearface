@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">山旅ロガー時計盤</string>
+    <string name="ma_cat_version">バージョン: </string>
+    <string name="ma_desc">Android Wearのウォッチフェイスの設定で，「山旅ロガー時計盤」を指定すれば使用できます．\n利用には「山旅ロガーGOLD」が必要です．無料版の山旅ロガーには対応していません．</string>
+    <string name="ma_t_require">利用には，山旅ロガーGOLDのバージョン4.35以降，またはauスマートパス版山旅ロガーGOLDのバージョン2.0以降が必要です．</string>
+</resources>
